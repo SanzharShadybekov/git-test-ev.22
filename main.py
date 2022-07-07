@@ -18,4 +18,6 @@ print('My name Tariel')
 print('Hello my name is Aibek!')
 print('My name is Muha')
 print('My name is Adiltay')
+print('CHIKA HELLO')
 print('My name is Emil')
+
