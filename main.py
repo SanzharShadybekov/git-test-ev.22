@@ -11,7 +11,17 @@ print('Hello my name is Ksenia!')
 print('Hello my name is Talgat')
 print('Hello my name is Islam')
 print('Hello my name is Nurmuhamed.')
+
+
+
+
+
+
+
+print('hello im leon i love pony')
+
 print('Hello my name is Manas')
+
 print('Hello my name is Aibek!')
 print('My name is Muha')
 print('My name Tariel')
