@@ -17,5 +17,5 @@ print("hello tima!!")
 
 
 
-
+print('Hello my name is Aibek!')
 print('My name is Muha')
