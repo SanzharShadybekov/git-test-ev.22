@@ -1,4 +1,5 @@
 print('Hello my name is Sanzhar!')
+print("hello tima!!")
 
 
 
@@ -8,6 +9,7 @@ print('Hello my name is Sanzhar!')
 print('My name is Igor!')
 
 
+print('Hello my name is Islam')
 
 
 
