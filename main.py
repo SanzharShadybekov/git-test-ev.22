@@ -3,7 +3,7 @@ print("hello tima!!")
 
 
 print('Hi, my name is Janylai!')
-
+print('Raimbek')
 
 print('Hello Im Ramazan')
 
