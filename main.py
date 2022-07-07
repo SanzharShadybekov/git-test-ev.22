@@ -1,22 +1,22 @@
 print('Hello my name is Sanzhar!')
+print("hello tima!!")
+
+print('Hello Bema!!!')
 
 
 
 
+print('My name is Igor!')
 
-
-
-
-
-print('Hello my name is Talgat!')
-
+print('Hello my name is Talgat')
+print('Hello my name is Islam')
 
 
 
 
 print('Hello my name is Nurmuhamed.')
 
-
+print('Hello my name is Manas')
 
 
 
