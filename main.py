@@ -17,8 +17,12 @@ print('hello im leon i love pony')
 print('Hello my name is Manas')
 print('My name Tariel')
 print('Hello my name is Aibek!')
+<<<<<<< HEAD
+print('My name is Muha')
+=======
 print('My name is Muha')
 print('My name is Adiltay')
 print('CHIKA HELLO')
 print('My name is Emil')
 print('My name is Izat!')
+>>>>>>> 595d68364e25b9fbf947d90b3818b73db926ab10
