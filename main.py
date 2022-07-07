@@ -1,6 +1,6 @@
 print('Hello my name is Sanzhar!')
 print("hello tima!!")
-print("hello tima!!")
+print("hello tima ne boldei ;)!!")
 print('Hi, my name is Janylai!')
 print('Raimbek')
 print('Hello Im Ramazan')
