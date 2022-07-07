@@ -1,3 +1,5 @@
+print('Hello my name is Sanzhar!')
+print("hello tima!!")
 print("hello kanykei!!")
 print('Hi, my name is Janylai!')
 print('Raimbek')
