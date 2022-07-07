@@ -1,7 +1,4 @@
 print('Hello my name is Sanzhar!')
-<<<<<<< HEAD
-
-=======
 print("hello tima!!")
 
 
@@ -11,7 +8,6 @@ print('Raimbek')
 print('Hello Im Ramazan')
 
 print('Hello Bema!!!')
->>>>>>> de0bcb9838f40f39ddfd62955bdaf9468e4e4c5b
 
 
 
