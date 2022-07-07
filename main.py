@@ -8,7 +8,7 @@ print('Hello Bema!!!')
 
 print('My name is Igor!')
 
-
+print('Hello my name is Talgat')
 print('Hello my name is Islam')
 
 
@@ -22,4 +22,5 @@ print('Hello my name is Manas')
 
 print('Hello my name is Aibek!')
 print('My name is Muha')
+
 
