@@ -1,13 +1,13 @@
 print('Hello my name is Sanzhar!')
 print("hello tima!!")
 
-
+print('Hello Bema!!!')
 print('Hi, my name is Janylai!')
 
 
 print('Hello Im Ramazan')
 
-print('Hello Bema!!!')
+
 
 
 
