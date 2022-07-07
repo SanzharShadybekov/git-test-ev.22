@@ -2,7 +2,7 @@ print('Hello my name is Sanzhar!')
 print("hello tima!!")
 
 
-
+print('Hi, my name is Janylai!')
 
 
 print('Hello Im Ramazan')
