@@ -24,11 +24,7 @@ print('Hello my name is Nurmuhamed.')
 
 print('Hello! my name is Zhasmin.')
 print('hello im leon i love pony')
-
 print('Hello my name is Manas')
-
-print('Hello my name is Aibek!')
-print('My name is Muha')
 print('My name Tariel')
 print('Hello my name is Aibek!')
 print('My name is Muha')
